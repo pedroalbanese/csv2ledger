@@ -1,4 +1,4 @@
-# CSV2Ledger
+# CSV2Ledger for Windows
 
 ### CSV2Ledger
 <pre>
